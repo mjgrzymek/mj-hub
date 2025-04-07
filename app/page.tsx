@@ -171,7 +171,8 @@ export default function Home() {
               className="h-16 w-fit"
             /> */}
             <span className="h-16 w-fit text-7xl">λ</span>
-            <span>Lambda Playground</span>
+            <span>Lambda</span>
+            <span>Playground</span>
           </a>
         </div>
       </section>
