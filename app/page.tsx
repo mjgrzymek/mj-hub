@@ -157,6 +157,22 @@ export default function Home() {
             </svg>
             <span>PeanoScript</span>
           </a>
+          <a
+            href="https://lambdaplayground.mjgrzymek.com"
+            target="_blank"
+            rel="noopener"
+            className="hover:bg-neutral-200 dark:hover:bg-neutral-800 pb-1 px-3 pt-3 rounded-lg flex flex-col items-center gap-1"
+          >
+            {/* <Image
+              src="/lambda-logo.png"
+              alt="Lambda logo"
+              width={796}
+              height={724}
+              className="h-16 w-fit"
+            /> */}
+            <span className="h-16 w-fit text-7xl">λ</span>
+            <span>Lambda Playground</span>
+          </a>
         </div>
       </section>
     </main>
