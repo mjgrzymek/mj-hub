@@ -175,6 +175,17 @@ export default function Home() {
             <span>Playground</span>
           </a>
         </div>
+        <a
+          href="https://www.areweaimathyet.com/"
+          target="_blank"
+          rel="noopener"
+          className="hover:bg-neutral-200 dark:hover:bg-neutral-800 pb-1 px-3 pt-3 rounded-lg flex flex-col items-center gap-1"
+        >
+          <span className="h-16 w-fit text-7xl/17  bg-sky-500 aspect-square text-center rounded ">
+            <span className="">∀</span>
+          </span>
+          <span>Are we AI math yet?</span>
+        </a>
       </section>
     </main>
   );
